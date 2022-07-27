@@ -8,5 +8,6 @@ include("laguerre.jl")
 include("osipov.jl")
 include("aidi.jl")
 include("reduce.jl")
+include("normalise.jl")
 
 end
